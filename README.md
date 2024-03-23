@@ -1,1 +1,0 @@
-# METCS777-RAGwithVectorDB
